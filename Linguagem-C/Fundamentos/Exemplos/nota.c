@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    //variaveis
+    int atv1 = 0;
+    int atv2 = 0;
+    printf("Qual a nota da atividade 1?");
+    scanf("%i", &atv1);
+
+    printf("Qual a nota da atividade 2?");
+    scanf("%i", &atv2);
+    int total_atvs = atv1 + atv2;
+
+    printf("A soma da atividades é %i\2", total_atvs);
+   return 0;
+}
