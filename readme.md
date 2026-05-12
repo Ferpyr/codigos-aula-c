@@ -1,1 +1,3 @@
-#Codigo sla oq
+# Repositório para as Aulas de Programação
+
+## Os códigos estão na linguagem C.
